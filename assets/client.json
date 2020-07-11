@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+    "nama_lengkap": "nama lengkap",
+    "nik": "1234567890987654",
+    "cif_no": "12345B",
+    "sid": "IDD12345",
+    "sre": "LG12345",
+    "ifua": "TS12345",
+    "branch": "AG",
+    "sales_code": "YP",
+    "sales_name": "Sales Cantik",
+    "referal_code": "SC",
+    "referal_name": "",
+    "no_hp": "012345",
+    "email": "abc@gmail.com",
+    "regis_step": "step 1",
+    "source_of_regis": "website mobile",
+    "created_date": 565542324,
+    "fail_reason": "session expired"
+  },
+  {
+    "nama_lengkap": "nama lengkap",
+    "nik": "1234567890987654",
+    "cif_no": "12345B",
+    "sid": "IDD12345",
+    "sre": "LG12345",
+    "ifua": "TS12345",
+    "branch": "AG",
+    "sales_code": "YP",
+    "sales_name": "Sales Cantik",
+    "referal_code": "SC",
+    "referal_name": "",
+    "no_hp": "012345",
+    "email": "abc@gmail.com",
+    "regis_step": "step 1",
+    "source_of_regis": "website mobile",
+    "created_date": 565542324,
+    "fail_reason": "session expired"
+  }
+  ],
+  "desc": "success",
+  "status": "200",
+  "total": 200,
+  "limit": 10,
+  "page": 1,
+  "period": "09012020-09012020",
+  "sort": "nama_lengkap",
+  "direction": "ASC"
+}
